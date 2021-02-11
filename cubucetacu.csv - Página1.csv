@@ -1,6 +1,3 @@
-BUCETA,CORES
-Luiza,AZUL
-Carla,AMARELO
-Josefa,BRANCO
-Adriana,LILÁS
-Pilantra, PRETO
+trafo1 = 15v  
+trafo2 = 20v
+trafo3 = 50v
